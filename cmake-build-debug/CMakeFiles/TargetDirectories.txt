@@ -1,0 +1,3 @@
+/Users/tharukadevendra/CLionProjects/qbundle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tharukadevendra/CLionProjects/qbundle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tharukadevendra/CLionProjects/qbundle/cmake-build-debug/CMakeFiles/qbundle.dir
