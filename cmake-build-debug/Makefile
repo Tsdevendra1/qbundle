@@ -150,6 +150,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/qbundle.dir/build.make CMakeFiles/qbundle.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/bundler.o: src/bundler.cpp.o
+
+.PHONY : src/bundler.o
+
+# target to build an object file
+src/bundler.cpp.o:
+	$(MAKE) -f CMakeFiles/qbundle.dir/build.make CMakeFiles/qbundle.dir/src/bundler.cpp.o
+.PHONY : src/bundler.cpp.o
+
+src/bundler.i: src/bundler.cpp.i
+
+.PHONY : src/bundler.i
+
+# target to preprocess a source file
+src/bundler.cpp.i:
+	$(MAKE) -f CMakeFiles/qbundle.dir/build.make CMakeFiles/qbundle.dir/src/bundler.cpp.i
+.PHONY : src/bundler.cpp.i
+
+src/bundler.s: src/bundler.cpp.s
+
+.PHONY : src/bundler.s
+
+# target to generate assembly for a file
+src/bundler.cpp.s:
+	$(MAKE) -f CMakeFiles/qbundle.dir/build.make CMakeFiles/qbundle.dir/src/bundler.cpp.s
+.PHONY : src/bundler.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/bundler.o"
+	@echo "... src/bundler.i"
+	@echo "... src/bundler.s"
 .PHONY : help
 
 

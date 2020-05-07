@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/qbundle.dir/main.cpp.o"
+  "CMakeFiles/qbundle.dir/src/bundler.cpp.o"
   "qbundle"
   "qbundle.pdb"
 )

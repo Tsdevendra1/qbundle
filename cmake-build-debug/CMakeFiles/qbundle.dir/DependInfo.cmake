@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/tharukadevendra/CLionProjects/qbundle/main.cpp" "/Users/tharukadevendra/CLionProjects/qbundle/cmake-build-debug/CMakeFiles/qbundle.dir/main.cpp.o"
+  "/Users/tharukadevendra/CLionProjects/qbundle/src/bundler.cpp" "/Users/tharukadevendra/CLionProjects/qbundle/cmake-build-debug/CMakeFiles/qbundle.dir/src/bundler.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

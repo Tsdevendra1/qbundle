@@ -83,6 +83,12 @@
 		<Unit filename="/Users/tharukadevendra/CLionProjects/qbundle/main.cpp">
 			<Option target="qbundle"/>
 		</Unit>
+		<Unit filename="/Users/tharukadevendra/CLionProjects/qbundle/src/bundler.cpp">
+			<Option target="qbundle"/>
+		</Unit>
+		<Unit filename="/Users/tharukadevendra/CLionProjects/qbundle/src/bundler.h">
+			<Option target="qbundle"/>
+		</Unit>
 		<Unit filename="/Users/tharukadevendra/CLionProjects/qbundle/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

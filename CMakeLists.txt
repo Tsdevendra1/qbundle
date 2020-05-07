@@ -3,4 +3,4 @@ project(qbundle)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(qbundle main.cpp)
+add_executable(qbundle main.cpp src/bundler.cpp src/bundler.h)
